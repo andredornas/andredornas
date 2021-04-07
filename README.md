@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :earth_americas: São Paulo, BR
-- 🔭 I’m currently working at Nubank
+- 🔭 I’m currently working at [Nubank](https://github.com/nubank/)
 
 <!--
 **andredornas/andredornas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
